@@ -1,1 +1,2 @@
-# Advanced-Notepad
+# CBHuffman
+CB Huffman
